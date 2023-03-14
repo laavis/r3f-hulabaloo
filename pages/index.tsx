@@ -58,13 +58,13 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Diploi Next.js To-Do App</title>
+        <title>Laavis's Next.js To-Do App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          What To Do?
+          What To Do? Oh noo
           <small>{process.env.NEXT_PUBLIC_TEST}</small>
         </h1>
 
